@@ -1,3 +1,4 @@
+package proj.dasefios.contaterminal;
 import java.util.Scanner;
 
 public class ContaTerminal {
