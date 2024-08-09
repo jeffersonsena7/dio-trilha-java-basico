@@ -36,7 +36,5 @@ public class ContaTerminal {
             + " conta " + numeroConta + " e seu saldo " + saldoConta + " R$, já está disponível para saque");
 
     valorSolicitado();
-
   };
-
 };
